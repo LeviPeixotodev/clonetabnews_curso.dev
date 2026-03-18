@@ -1,5 +1,6 @@
 # clonetabnews_curso.dev
-implementaçao do tabnews para treinar programaçao no curso.dev.
+
+Implementação do https://www.tabnews.com.br para o https://curso.dev
 
 $ npm install react@18.2.0
 
